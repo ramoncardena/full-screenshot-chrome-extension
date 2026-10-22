@@ -6,6 +6,8 @@ that scroll inside a box and side panels that scroll on their own.
 - **Click the icon:** capture, then edit (blur, crop, zoom) and copy or download.
 - **Right-click the icon → Quick capture:** copy to clipboard and download right away.
 
+![The editor after capturing a full Wikipedia article](docs/editor.png)
+
 ## Install from a zip
 
 1. Download `full-screenshot-chrome-extension-<version>.zip` from the
