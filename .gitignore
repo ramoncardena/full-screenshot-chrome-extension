@@ -1,0 +1,14 @@
+# Built zips (attach them to a GitHub release instead)
+/dist/
+*.zip
+
+# Chrome packaging keys and packed builds
+*.pem
+*.crx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
